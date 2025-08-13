@@ -1,0 +1,110 @@
+{
+  "ADM081": {
+    "username": "ADM013",
+    "account_type": "admin",
+    "password": "a5b335d5744b402a578da8996ba563b3bb30846886442a14f9f17bf837704d1f",
+    "password_salt": "|7.]",
+    "password_change_required": false,
+    "failed_logon_attempts": 0,
+    "locked": false
+  },
+  "000951304": {
+    "username": "D5180J",
+    "account_type": "user",
+    "password": "47167b673136fdc6a0e42b0b4a91398063594ce2f6405757f6692df3751205ab",
+    "password_salt": "0-\",",
+    "password_change_required": false,
+    "failed_logon_attempts": 0,
+    "locked": false
+  },
+  "001000508": {
+    "username": "M0484A",
+    "account_type": "user",
+    "password": "df9519ed99a6655da4e961d639349c8fcada50e1bc98a4ffbde6e51149b7b4dc",
+    "password_salt": "+*%2",
+    "password_change_required": false,
+    "failed_logon_attempts": 0,
+    "locked": false
+  },
+  "002802511": {
+    "username": "M4635K",
+    "account_type": "user",
+    "password": "8640bc8544f312a6b976eed61ec0035be7ad0947f57cdc934b1dd9784c3d8873",
+    "password_salt": "~0(/",
+    "password_change_required": false,
+    "failed_logon_attempts": 0,
+    "locked": false
+  },
+  "003031502": {
+    "username": "C6320E",
+    "account_type": "user",
+    "password": "7f55338fe7e1c06ffc046fea2a028ae8ddc2ae162ce7f690dba3e7ce4ce526af",
+    "password_salt": "4<0^",
+    "password_change_required": false,
+    "failed_logon_attempts": 0,
+    "locked": false
+  },
+  "004501205": {
+    "username": "U8261H",
+    "account_type": "user",
+    "password": "e9a42bc4540ff9057b35e3ee4eb53f2ae686051334a82658929dd59dc6dc85b7",
+    "password_salt": "4~](",
+    "password_change_required": false,
+    "failed_logon_attempts": 0,
+    "locked": false
+  },
+  "005850510": {
+    "username": "J3746Z",
+    "account_type": "user",
+    "password": "6dd6c6713ecbf97a29b57334d28a055dc385e4d26f6b52d513eca657c7ea933a",
+    "password_salt": "|-*\\",
+    "password_change_required": false,
+    "failed_logon_attempts": 0,
+    "locked": false
+  },
+  "ADM186": {
+    "username": "ADM186",
+    "account_type": "admin",
+    "password": "de3b763171a1a4aa8d5302fa7ede77a571c64a235aba86bb01a9dd0336114fee",
+    "password_salt": ">1|?",
+    "password_change_required": true,
+    "failed_logon_attempts": 0,
+    "locked": false
+  },
+  "006052009": {
+    "username": "D7338E",
+    "account_type": "user",
+    "password": "5e5c8e9e6063ed7505de8b78bdd5a75b150a873cf55951b793ee2807b36289eb",
+    "password_salt": "~(@]",
+    "password_change_required": false,
+    "failed_logon_attempts": 0,
+    "locked": false
+  },
+  "007910101": {
+    "username": "R4266C",
+    "account_type": "user",
+    "password": "2ba7ebe8d1666b83680b4b7ee38e8f48053126be8e774f242dd10ebba15c7a9b",
+    "password_salt": "$;!!",
+    "password_change_required": false,
+    "failed_logon_attempts": 0,
+    "locked": false
+  },
+  "008202507": {
+    "username": "K1434J",
+    "account_type": "user",
+    "password": "613a0a769dfa2f633e5cb952909cbfaaa791692c1efc66befc237cb0d416fd31",
+    "password_salt": "_-|.",
+    "password_change_required": false,
+    "failed_logon_attempts": 0,
+    "locked": false
+  },
+  "009061412": {
+    "username": "E7712M",
+    "account_type": "user",
+    "password": "e5115cd3090b3bf77c829be7c437c9d1007383c507a432fb6c8b1bb5c15a3384",
+    "password_salt": "228`",
+    "password_change_required": false,
+    "failed_logon_attempts": 0,
+    "locked": false
+  }
+}

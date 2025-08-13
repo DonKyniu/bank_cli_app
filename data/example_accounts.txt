@@ -1,0 +1,17 @@
+D5180J - John Doe 
+Testpwd12!
+cash in wallet : 2574
+M0484A - Adrian Mich
+DarkSide90!
+cash in wallet: 2784
+C6320E - Eric Clampton
+ericIsme0l!
+cash in wallet: 1032
+U8261H - Henry Uiol
+miDdleage2000&
+cash in wallet: 1582
+J3746Z - Zia Jenkins
+cash in wallet: 1228
+itsmeZiia1%
+ADM186
+admin - it will ask to change password as it's a fresh created account

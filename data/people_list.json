@@ -1,0 +1,74 @@
+{
+  "ADM081": {
+    "name": "Admin",
+    "surname": "Admin",
+    "birthdate": "invalid date",
+    "cash_in_wallet": 2810
+  },
+  "000951304": {
+    "name": "John",
+    "surname": "Doe",
+    "birthdate": "13.04.1995",
+    "cash_in_wallet": 2574
+  },
+  "001000508": {
+    "name": "Adrian",
+    "surname": "Mich",
+    "birthdate": "05.08.2000",
+    "cash_in_wallet": 2784
+  },
+  "002802511": {
+    "name": "Karen",
+    "surname": "Madlen",
+    "birthdate": "25.11.1980",
+    "cash_in_wallet": 1079
+  },
+  "003031502": {
+    "name": "Eric",
+    "surname": "Clampton",
+    "birthdate": "15.02.2003",
+    "cash_in_wallet": 1157
+  },
+  "004501205": {
+    "name": "Henry",
+    "surname": "Uiol",
+    "birthdate": "12.05.1950",
+    "cash_in_wallet": 1582
+  },
+  "005850510": {
+    "name": "Zia",
+    "surname": "Jenkins",
+    "birthdate": "05.10.1985",
+    "cash_in_wallet": 1032
+  },
+  "ADM186": {
+    "name": "Admin",
+    "surname": "Admin",
+    "birthdate": "invalid date",
+    "cash_in_wallet": 1228
+  },
+  "006052009": {
+    "name": "Eric",
+    "surname": "Doe",
+    "birthdate": "20.09.2005",
+    "cash_in_wallet": 1478
+  },
+  "007910101": {
+    "name": "Clio",
+    "surname": "Reno",
+    "birthdate": "01.01.1991",
+    "cash_in_wallet": 832
+  },
+  "008202507": {
+    "name": "John",
+    "surname": "Klementi",
+    "birthdate": "25.07.1920",
+    "cash_in_wallet": 2272
+  },
+  "009061412": {
+    "name": "Mia",
+    "surname": "Evans",
+    "birthdate": "14.12.2006",
+    "cash_in_wallet": 1923
+  }
+}

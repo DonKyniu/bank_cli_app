@@ -1,0 +1,52 @@
+{
+  "000951304": {
+    "account_name": "Personal",
+    "account_number": "3-34-60-19-25",
+    "balance": 500
+  },
+  "001000508": {
+    "account_name": "Personal",
+    "account_number": "1-22-96-67-31",
+    "balance": 340
+  },
+  "002802511": {
+    "account_name": "Personal",
+    "account_number": "8-27-66-20-97",
+    "balance": 0
+  },
+  "003031502": {
+    "account_name": "Personal",
+    "account_number": "1-26-19-49-89",
+    "balance": 3500
+  },
+  "004501205": {
+    "account_name": "Personal",
+    "account_number": "3-24-51-90-27",
+    "balance": 10000
+  },
+  "005850510": {
+    "account_name": "Personal",
+    "account_number": "3-28-62-72-62",
+    "balance": 0
+  },
+  "006052009": {
+    "account_name": "Personal",
+    "account_number": "2-35-62-50-62",
+    "balance": 50000
+  },
+  "007910101": {
+    "account_name": "Personal",
+    "account_number": "6-49-28-17-51",
+    "balance": 10
+  },
+  "008202507": {
+    "account_name": "Personal",
+    "account_number": "3-55-58-21-26",
+    "balance": 5
+  },
+  "009061412": {
+    "account_name": "Personal",
+    "account_number": "3-28-13-47-63",
+    "balance": 90
+  }
+}
