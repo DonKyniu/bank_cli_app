@@ -1,13 +1,13 @@
 # Bank CLI APP in python
-One of my first projects created in python. Simple banking CLI based app in order to practice python
+One of my first projects created in python. Simple banking CLI based app in order to practice python.
 
 ## Technologies used
-Program was created in python. I used pwinput module for masking input when entering password. Other than that all other modules are build into python standard library
+Program was created in python. I used pwinput module for masking input when entering password. Other than that all other modules are build into python standard library.
 
 ## Project Goal
-The main goal of this project was to practice python and  OOP(Object Oriented Programming). the program was not tested on Linux or other operating system. It should work on Windows machines.
+The main goal of this project was to practice python and  OOP(Object Oriented Programming).The program was not tested on Linux or other operating system. It should work on Windows machines.
 
-Program itself does not have any GUI - it's cmd based so input from user is entering text - most of the times digit
+Program itself does not have any GUI - It's cmd based so input from user is entering text - most of the times digit.
 
 ## What can be done in that program ?
 
@@ -47,11 +47,15 @@ All the data used in program is stored in .json files in data folder.
 
 In this repo I have included example data files which are allowing to perform various operations either as user or admin.
 
-It also contains admin and some  example username / password as passwords in .json file are already hashed
+It also contains admin and some  example username / password as passwords in .json file are already hashed.
 
 As when there is no data - the only account injected via code is admin one.
 
-For creating account admin type account is not required - but for other actions mentioned above it is
+That admin username is **ADM013** and password **admin** - It will ask to change password when you first time login.
+
+In pre-populated data(example data .json files included in repo) password for ADM013 is already changed - but there is easy way to override it(even if not directly due to hashing and way of checking passwords).
+
+For creating account admin type account is not required - but for other actions mentioned above it is.
 
 
 
