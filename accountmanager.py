@@ -129,9 +129,9 @@ class AccountManager():
     
 if __name__ == "__main__":
     account_manager = AccountManager()
-    michal_account = account_manager.create_new_user_account("Michal", "Hliwa", "02.04.1991")
-    tobiasz_account = account_manager.create_new_user_account("Tobiasz", "Muszynski", "02.10.1993")
-    krzysztof_account = account_manager.create_new_user_account("Krzysztof", "Muszynski", "13.07.1997")
+    michal_account = account_manager.create_new_user_account("Michal", "James", "02.04.1991")
+    tobiasz_account = account_manager.create_new_user_account("Tobiasz", "Zen", "02.10.1993")
+    krzysztof_account = account_manager.create_new_user_account("Krzysztof", "Kris", "13.07.1997")
 
     m_acc = account_manager.create_new_account(michal_account)
     t_acc = account_manager.create_new_account(tobiasz_account)
@@ -143,11 +143,11 @@ if __name__ == "__main__":
     #print(tobiasz_account)
     #print(krzysztof_account)
 
-    michal_person = account_manager.get_customer_by_full_name("Michal", "Hliwa")
+    michal_person = account_manager.get_customer_by_full_name("Michal", "James")
     #print(michal_person)
    # print(account_manager.get_all_accounts())
     customers = account_manager.get_all_customers()
-    krzysztof_found = account_manager.get_customer_by_full_name("Krzysztof", "Muszynski")
+    krzysztof_found = account_manager.get_customer_by_full_name("Krzysztof", "Kris")
     print(michal_person)
     owner, michaL_b_account = account_manager.get_account_by_number("6-94-32-14-14")
     print(michaL_b_account)
@@ -156,3 +156,4 @@ if __name__ == "__main__":
     print(f"testing {account_manager.get_customer_account(michal_account)[0]}")
     
  
+
